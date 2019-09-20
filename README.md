@@ -1,5 +1,7 @@
 # fMRIPrep Workshop
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josephmje/fmriprep_workshop/master)
+
 ## Overview
 
 This workshop will introduce trainees to fMRIPrep, a pipeline for minimally pre-processing fMRI data. fMRIPrep was built around 3 principles: robustness, ease of use, and a "glass box" design. Trainees will learn how to install and run fMRIPrep, inspect fMRIPrep's outputs, and trouble shoot errors.
